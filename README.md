@@ -80,6 +80,46 @@ Intelligence analysis
 against international targets. Abbas is a "shadow man", but the campaign he has set up has now been exposed, and is very embarrassing for the Iranian leadership.
 
 ---
+# Episode 4
+
+## **Overview**
+In the previous release, we shared the **SOURCE CODE files** of the **BELLACIAO malware**. This release is a significant follow-up, exposing the **unified infrastructure Excel sheet** used by the group to document all their servers:
+ 
+- **Procurement identities**
+- **Server login credentials**
+- **Details of attack servers** (e.g., Tunnel)
+- **File storage servers**
+- **Other operational infrastructure**
+
+## **Key Personnel**
+- **MOHAMMAD NAJAFLOO** (ID: `4270878835`): A former senior employee who maintained these Excel sheets for years.
+- **MOHAMMADERFAN HAMIDIAREF** (ID: `0023199709`): Took over the role after NAJAFLOO's departure and continued managing the infrastructure.
+
+## **Proof of CHARMING KITTEN Connection**
+To verify the link to **CHARMING KITTEN**, analyze the servers listed in the Excel sheet. You will find that these servers were used by:
+- **BELLACIAO**
+- **CYCLOPS**
+- Other related groups
+
+## **Sensitive Information Exposed**
+The files include:
+- Passwords for servers on the group's **internal network**.
+- Access details for systems such as:
+- Internal communication platforms (**ISABELLE**, **3CX**, **SIGNAL**)
+- File extraction systems
+- Storage servers
+
+## **Additional Files Included**
+1. **Materials obtained by the group from the Dubai Police**
+2. **"The Group's Phishing Guide"**
+3. **Penetration report for a medical entity**
+
+## **Call to Action**
+We encourage you to analyze the provided files and share your insights. Your findings will help further expose the group's operations and infrastructure.
+
+**Stay tuned for the next episode!**
+
+---
 ⚠️ **Ongoing Exposures:**  
 Every few days, we will release more evidence about their activities, along with additional information about their personal lives.
 
